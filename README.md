@@ -4,7 +4,7 @@ A calm, cozy **dark** theme for kids: the warm, earthy **Miasma** palette paired
 
 ![Preview](preview.png)
 
-> The preview is a placeholder (the wallpaper itself). Replace it with a real desktop screenshot after installing.
+> The preview is a real desktop screenshot. `preview-butterfly.png` shows the theme on the second wallpaper.
 
 ## Install
 
